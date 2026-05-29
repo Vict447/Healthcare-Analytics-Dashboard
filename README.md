@@ -1,6 +1,7 @@
 .
 
 🏥 Healthcare Analytics Dashboard (Excel)
+
 📌 Overview
 A professionally designed Healthcare Analytics Dashboard built in Microsoft Excel to analyze hospital operations and support data‑driven decision‑making. This project transforms raw patient data into actionable insights across demographics, diagnosis patterns, length of stay, billing performance, and doctor workload.
 
