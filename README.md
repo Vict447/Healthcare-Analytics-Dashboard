@@ -4,7 +4,7 @@
 
 📌 Overview
 A professionally designed Healthcare Analytics Dashboard built in Microsoft Excel to analyze hospital operations and support data‑driven decision‑making. This project transforms raw patient data into actionable insights across demographics, diagnosis patterns, length of stay, billing performance, and doctor workload.
-![Healthcare Dashboard](Hospital_Analytics_Dashboard.png)
+healthcare dashboard.png
 
 🎯 Project Purpose
 To demonstrate strong analytical, visualization, and dashboard‑building skills using Excel while providing meaningful insights for healthcare administration.
